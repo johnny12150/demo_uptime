@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 124,
     "timeWeek": 171,
     "timeMonth": 232,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2022-10-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
