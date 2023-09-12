@@ -1,7 +1,7 @@
 url: https://en.wikipedia.org
-status: down
-code: 503
-responseTime: 3733
-lastUpdated: 2023-09-12T16:05:33.255Z
+status: up
+code: 200
+responseTime: 151
+lastUpdated: 2023-09-12T16:14:33.316Z
 startTime: 2020-08-10T07:54:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
