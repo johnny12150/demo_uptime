@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 69,
-    "timeWeek": 73,
+    "timeDay": 110,
+    "timeWeek": 77,
     "timeMonth": 82,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 180,
-    "timeWeek": 185,
-    "timeMonth": 226,
+    "time": 230,
+    "timeDay": 386,
+    "timeWeek": 236,
+    "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -47,9 +49,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.91%",
     "time": 328,
-    "timeDay": 116,
-    "timeWeek": 264,
-    "timeMonth": 432,
+    "timeDay": 401,
+    "timeWeek": 287,
+    "timeMonth": 433,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-01-10": 119,
